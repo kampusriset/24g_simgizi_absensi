@@ -19,4 +19,4 @@ Berikut adalah langkah-langkah untuk menjalankan aplikasi di lingkungan lokal:
 1. Pastikan Anda memiliki web server lokal seperti XAMPP, MAMP, atau Laragon yang sudah terinstal.
 2. *Clone* repository ini ke direktori server lokal Anda (contoh: folder `htdocs` untuk XAMPP).
 ```bash
-   git clone [MASUKKAN_URL_REPOSITORY_DI_SINI]
+   git clone [https://github.com/kampusriset/24g_simgizi_absensi]
