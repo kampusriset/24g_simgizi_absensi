@@ -8,8 +8,8 @@ Sistem ini dilengkapi dengan fungsionalitas berikut:
 * **Register & Login:** Sistem autentikasi untuk membatasi akses pengguna.
 * **Dashboard:** Halaman ringkasan utama setelah pengguna berhasil masuk.
 * **Manajemen Data (CRUD):**
-  * **Create:** Fitur untuk menambahkan data [Sebutkan jenis datanya] baru.
-  * **Read:** Menampilkan daftar data [Sebutkan jenis datanya] secara terstruktur.
+  * **Create:** Fitur untuk menambahkan data absensi baru.
+  * **Read:** Menampilkan daftar data absensi secara terstruktur.
   * **Update:** Fitur untuk memperbarui atau mengedit data yang sudah ada.
   * **Delete:** Fitur untuk menghapus data dari sistem.
 * **Logout:** Mengakhiri sesi pengguna dengan aman.
@@ -24,4 +24,4 @@ git clone [https://github.com/kampusriset/24g_simgizi_absensi]
 3. Buat database baru di phpMyAdmin dengan nama (misal) sim_gizi.
 4. Import file .sql yang terdapat di repository ini ke dalam database yang baru dibuat.
 5. Buka file konfigurasi koneksi database (misal: database.php) dan sesuaikan username, password, serta nama database dengan server lokal Anda.
-6. Buka web browser dan akses aplikasi melalui URL: http://localhost/[sim-gizi-absensi]
+6. Buka web browser dan akses aplikasi melalui URL: http://localhost/sim-gizi-absensi
