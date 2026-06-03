@@ -1,1 +1,0 @@
-# 24g_simgizi_absensi
