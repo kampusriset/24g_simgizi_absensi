@@ -28,6 +28,6 @@ git clone [https://github.com/kampusriset/24g_simgizi_absensi]
 
 ## 🗄️ Struktur Database
 Database sim_gizi meliputi beberapa Table:
-1. Table absensi: id_absensi (Primary Key),id_penerima,tanggal,status_hadir
+1. Table absensi         : id_absensi (Primary Key),id_penerima,tanggal,status_hadir
 2. Table penerima_manfaat: id_penerima (Primary Key),nama,nik,alamat,status
-3. Table users: id_user (Primary Key),nama,username,password,role,created_at
+3. Table users           : id_user (Primary Key),nama,username,password,role,created_at
