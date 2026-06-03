@@ -33,3 +33,16 @@ Database sim_gizi meliputi beberapa Table:
    b. id_penerima
    c. tanggal
    d. status_hadir
+2. Table penerima_manfaat:
+   a. id_penerima (Primary Key)
+   b. nama
+   c. nik
+   d. alamat
+   e. status
+3. Table users:
+   a. id_user (Primary Key)
+   b. nama
+   c. username
+   d. password
+   e. role
+   f. created_at
