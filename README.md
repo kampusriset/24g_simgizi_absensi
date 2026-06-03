@@ -24,6 +24,12 @@ git clone [https://github.com/kampusriset/24g_simgizi_absensi]
 3. Buat database baru di phpMyAdmin dengan nama (misal) sim_gizi.
 4. Import file .sql yang terdapat di repository ini ke dalam database yang baru dibuat.
 5. Buka file konfigurasi koneksi database (misal: database.php) dan sesuaikan username, password, serta nama database dengan server lokal Anda.
-6. Buka web browser dan akses aplikasi melalui URL: http://localhost/sim-gizi-absensi
+6. Buka web browser dan akses aplikasi melalui URL: http://localhost/24g_simgizi_absensi
 
 ## 🗄️ Struktur Database
+Database sim_gizi meliputi beberapa Table:
+1. Table absensi:
+   a. id_absensi (Primary Key)
+   b. id_penerima
+   c. tanggal
+   d. status_hadir
