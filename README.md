@@ -2,6 +2,7 @@
 
 ## 📸 Screenshot Tampilan Aplikasi
 ![Tampilan Halaman Login](assets/img/login.png)
+*Tampilan Halaman Login*
 
 ## 📖 Deskripsi Aplikasi
 Aplikasi Sistem Informasi Manajemen (SIM) ini dikembangkan sebagai proyek Ujian Tengah Semester (UTS) genap T.A. 2025/2026 untuk mata kuliah Pemrograman Web. Aplikasi ini merupakan pengembangan lanjutan dari base project "SIM Playlist" dengan mengimplementasikan fitur CRUD (Create, Read, Update, Delete) secara utuh. Tampilan antarmuka aplikasi ini telah dikustomisasi menggunakan framework Tailwind CSS.
